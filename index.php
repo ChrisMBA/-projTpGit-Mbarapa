@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'Bonjour de Christopher MBARAPA!'
+        echo 'Ceci est une erreur de Muwanga qui a remplacé une ligne'
         ?>
     </body>
 </html>
