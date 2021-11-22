@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "Présentation : ceci est le web de Mbarapa"
+        echo "Présentation: ceci est le web de Mbarapa"
         ?>
     </body>
 </html>
